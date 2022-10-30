@@ -23,3 +23,23 @@
     border-radius: 8px;
     background: #ffffff99;
 }
+#transaction-area{
+    display: none;
+    background: linear-gradient(89deg, #325fa3b8, #5548bd);
+    background-size: cover;
+    height: 100vh;
+}
+.deposit{
+    background-color: blueviolet;
+}
+.withdraw{
+    background-color: #d54e57;
+}
+.balance{
+    background-color: #ffb700;
+}
+.status{
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
